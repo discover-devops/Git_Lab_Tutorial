@@ -62,3 +62,7 @@
   - `job1`: Defines a job named `job1`.
   - `stage`: Associates the job with `stage1`.
   - `script`: Contains the commands to be executed by the job.
+
+
+Ref: https://docs.gitlab.com/ee/ci/pipelines/
+
