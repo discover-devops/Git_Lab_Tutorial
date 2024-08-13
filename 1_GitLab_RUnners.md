@@ -29,6 +29,10 @@ GitLab Runner is a core component of GitLab CI/CD, responsible for executing the
 
 - **Use Case**: Specific runners are suitable for larger projects, sensitive workloads, or when you need more control over the environment in which your CI/CD jobs are executed.
 
+
+![image](https://github.com/user-attachments/assets/a472a734-bbe0-490a-bc9d-eb3b9bdd3db5)
+
+
 ## How GitLab Runners Work
 
 1. **Pipeline Execution**:
